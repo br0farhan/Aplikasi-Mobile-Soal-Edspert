@@ -1,16 +1,39 @@
-# konsultasi_soal
+# Aplikasi Mobile|Konsultasi Soal|v.1.0.0+
+[![F|](https://i.postimg.cc/t4nYyNgH/powered-by-br0farhan.png)](https://www.linkedin.com/in/br0farhan/)
 
-A new Flutter project.
+Aplikasi mobile Konsultasi dapat digunakan menggunakan handphone Android.
 
-## Getting Started
+## PROSES DEVELOPMENT | DOING 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Aplikasi ini merupakan pelatihan Bootcamp dari edspert.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Akun Saya
+
+Jika ingin kolabarosi dan menambah pertemanan saya sangat terbuka untuk itu.
+
+| Sosmed | Akun |
+| ------ | ------ |
+| Facebook | [br0Farhan][PlDb] |
+| Instagram | [br0Farhan][PlGh] |
+| Twitter | [br0Farhan][PlGd] |
+| Linkedin | [br0Farhan][PlOd] |
+| Showwcase | [br0Farhan][PlMe] |
+| Website | [br0Farhan][PlGa] |
+
+
+
+By
+
+**Farhan Martiyansyah**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+
+   [PlDb]: <https://www.facebook.com/MyHansyah/>
+   [PlGh]: <https://www.instagram.com/syahhaans/>
+   [PlGd]: <https://twitter.com/br0farhan>
+   [PlOd]: <https://www.linkedin.com/in/br0farhan>
+   [PlMe]: <https://www.showwcase.com/br0farhan>
+   [PlGa]: <https://farhanm.com/>
